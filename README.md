@@ -4,7 +4,7 @@ This component of the project applies Graph Neural Networks (GNN) to perform aut
 
 ## Description
 
-The pipeline processes input files to generate node and edge data suitable for GNNs. This includes feature extraction, data preprocessing, and constructing a graph-based representation of the BIM data. The GNN model then learns to annotate the BIM elements, identifying patterns and relationships within the data.
+The pipeline processes input files to generate node and edge data suitable for GNNs. 
 
 ## Graph Generation and Preprocessing
 
