@@ -6,9 +6,7 @@ import networkx as nx
 import pandas as pd
 import re
 
-#import archicad
-#from archicad import ACConnection
-#conn = ACConnection.connect()
+#IF YOU WOULD LIKE TO VISUALIZE GRAPH YOU CAN UNCOMMENT THE NEO4J LINE 276
 
 def extract_coordinates(coord_str):
     # This pattern matches the coordinates in the format [(x1, y1, z1), (x2, y2, z2)]
@@ -222,9 +220,8 @@ def main():
         r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_S_Office.txt',
         r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_SLife_Express.txt',
         r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Stacked_Tower.txt',
- 
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Vacation_Home_DBS.txt', 
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Jooste_House_DBS.txt',
+        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Villa_Patio.txt',
+       
         r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Grow_DBS.txt',
         r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Edu_Center_DBS.txt',
         r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Rec_Center_DBS.txt',
@@ -275,11 +272,6 @@ def main():
         output_graphml_path = os.path.join(output_directory, f'output_graph_{i}.graphml')
         save_graph_to_graphml(pd.concat([elements_df]), edges_df, output_graphml_path)
 
-    # Optional: Print data for verification
-    #print("Elements:")
-    #print(elements_df.head())
-    #print("\nAnnotations:")
-    #print(annotations_df.head())
 
     #write_to_neo4j(node_csv="nodes_data.csv", edge_csv="edges_data.csv", database="neo4j6")
 
