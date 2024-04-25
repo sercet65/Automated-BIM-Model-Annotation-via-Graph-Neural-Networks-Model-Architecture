@@ -1,0 +1,2 @@
+Element Type: Slab, GUID: 9ADB23A9-A401-A14F-9AF5-E4E85DCB268F, Info String: SSL-05, Slab Bounding Box: [(41.58, 36.40, -0.15), (82.21, 49.03, 0.15)], Label Type: 0
+Element Type: Slab, GUID: 802040B5-870D-4C5B-9B28-083A897B621B, Info String: IN-02, Slab Bounding Box: [(41.58, 36.40, -0.45), (82.21, 49.03, 0.00)], Label Type: 0

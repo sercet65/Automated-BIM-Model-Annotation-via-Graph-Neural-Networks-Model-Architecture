@@ -1,0 +1,6 @@
+Element Type: Wall, GUID: A7B56945-67BE-4147-A30D-43B2961313DA, Length: 8.60, Width: 0.29, Height: 0.45, Info String: SW - 090, Wall Bounding Box: [(-19.50, -17.20, 0.20), (-19.21, -8.60, 0.65)], Label Type: 0
+Element Type: Wall, GUID: D25B8800-7A2D-4D13-8907-87211BC17C74, Length: 8.60, Width: 0.21, Height: 0.45, Info String: SW - 090, Wall Bounding Box: [(-8.94, -17.20, 0.20), (-8.73, -8.60, 0.65)], Label Type: 0
+Element Type: Wall, GUID: 64C800A8-6C64-443C-B2A6-6FE6A57054F5, Length: 10.65, Width: 0.21, Height: 0.45, Info String: SW - 090, Wall Bounding Box: [(-19.40, -8.79, 0.20), (-8.75, -8.58, 0.65)], Label Type: 0
+Element Type: Wall, GUID: F1260243-0FF1-437D-B3E2-8BB5A891E10E, Length: 10.65, Width: 0.21, Height: 0.45, Info String: SW - 090, Wall Bounding Box: [(-19.40, -17.22, 0.20), (-8.75, -17.01, 0.65)], Label Type: 0
+Element Type: Slab, GUID: E462F645-086A-45C2-910D-392B3661C1E4, Info String: SLA - 021, Slab Bounding Box: [(-19.45, -17.20, 0.05), (-8.75, -8.60, 0.20)], Label Type: 0
+Element Type: Slab, GUID: 630810C9-4D57-4755-820F-BEFAF5FBA806, Info String: SLA - 002, Slab Bounding Box: [(-19.26, -17.06, 0.20), (-8.89, -8.74, 0.40)], Label Type: 0

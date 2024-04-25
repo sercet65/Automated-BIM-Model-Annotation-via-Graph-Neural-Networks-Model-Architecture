@@ -1,0 +1,1 @@
+Element Type: Slab, GUID: CFAD90EB-16BA-354F-A7AD-663FE817FE87, Info String: SLA - 045, Slab Bounding Box: [(11.98, 13.91, -1.50), (19.08, 16.16, -1.20)], Label Type: 0

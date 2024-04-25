@@ -1,0 +1,1 @@
+Element Type: Slab, GUID: DB03EAE1-BF5C-E74D-908C-0EFE063511DC, Info String: SOLAIO 007, Slab Bounding Box: [(-69.82, 46.81, 0.00), (-45.61, 59.55, 0.20)], Label Type: 0

@@ -1,0 +1,197 @@
+Element Type: DimNode 0, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, Associated Element GUID: 5573CB58-4F27-3544-AEAB-341B7082BBF9, Text: 0.000, Length: 0.00, DimNode 0 Bounding Box: [(7.30, 18.24, 0.00), (7.31, 18.25, 0.00)], Position: (7.31, 18.25), Info String: Dim Node 0
+Element Type: DimNode 1, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, Associated Element GUID: 7068DC9B-2AF6-DE44-873E-4577F2DB20D4, Text: 4.625, Length: 4.63, DimNode 1 Bounding Box: [(11.93, 18.24, 0.00), (11.94, 18.25, 0.00)], Position: (11.93, 18.25), Info String: Dim Node 1
+Element Type: DimNode 2, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, Associated Element GUID: 49CE2419-FF4A-9147-AAB4-A71BEA4F62B0, Text: 7.200, Length: 7.20, DimNode 2 Bounding Box: [(19.13, 18.24, 0.00), (19.14, 18.25, 0.00)], Position: (19.13, 18.25), Info String: Dim Node 2
+Element Type: DimNode 3, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, Associated Element GUID: E0135B71-870D-CB4F-B07D-B4D6291B6F68, Text: 8.125, Length: 8.13, DimNode 3 Bounding Box: [(27.25, 18.24, 0.00), (27.26, 18.25, 0.00)], Position: (27.26, 18.25), Info String: Dim Node 3
+Element Type: DimNode 4, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, Associated Element GUID: 66E94027-BF8C-7D42-8F0D-795A6A6410B0, Text: 6.000, Length: 6.00, DimNode 4 Bounding Box: [(33.25, 18.24, 0.00), (33.26, 18.25, 0.00)], Position: (33.26, 18.25), Info String: Dim Node 4
+Element Type: DimNode 5, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, Associated Element GUID: C7BEA488-82BF-4A4E-AA1B-40AB94B91957, Text: 4.175, Length: 4.18, DimNode 5 Bounding Box: [(37.43, 18.24, 0.00), (37.44, 18.25, 0.00)], Position: (37.43, 18.25), Info String: Dim Node 5
+Element Type: Dimension, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, Dimension Bounding Box: [(7.25, 18.15, 0.00), (37.50, 18.34, 0.00)], Length: 30.12, Info String: Dim 1
+Element Type: DimNode 6, GUID: 1506BBD3-A3E8-4D4E-B007-5ECBDE8C742A, Associated Element GUID: 5573CB58-4F27-3544-AEAB-341B7082BBF9, Text: 0.000, Length: 0.00, DimNode 6 Bounding Box: [(7.30, 19.01, 0.00), (7.31, 19.02, 0.00)], Position: (7.31, 19.01), Info String: Dim Node 6
+Element Type: DimNode 7, GUID: 1506BBD3-A3E8-4D4E-B007-5ECBDE8C742A, Associated Element GUID: C7BEA488-82BF-4A4E-AA1B-40AB94B91957, Text: 30.125, Length: 30.12, DimNode 7 Bounding Box: [(37.43, 19.01, 0.00), (37.44, 19.02, 0.00)], Position: (37.43, 19.01), Info String: Dim Node 7
+Element Type: Dimension, GUID: 1506BBD3-A3E8-4D4E-B007-5ECBDE8C742A, Dimension Bounding Box: [(7.25, 18.92, 0.00), (37.50, 19.10, 0.00)], Length: 30.12, Info String: Dim 2
+Element Type: Wall, GUID: A7DC1D5B-1D0B-7241-9698-BD84B31FADDA, Length: 5.46, Width: 0.20, Height: 4.65, Embedded Door GUID: 30473EC4-6EC6-6144-A05A-7744B225CAC4, Info String: SW - 044, Wall Bounding Box: [(19.03, 10.55, 0.00), (19.23, 16.01, 4.65)], Label Type: 0
+Element Type: Wall, GUID: 930CD0E6-2C96-CD4B-BF03-0E23D1506B58, Length: 5.10, Width: 0.15, Height: 5.00, Info String: SW - 044, Wall Bounding Box: [(13.03, 14.96, 0.00), (18.13, 15.11, 5.00)], Label Type: 0
+Element Type: Wall, GUID: CB381FCB-1F4C-EA4A-8D69-EC07E69A1814, Length: 1.20, Width: 0.10, Height: 5.00, Info String: SW - 042, Wall Bounding Box: [(19.23, 12.13, 0.00), (20.43, 12.23, 5.00)], Label Type: 0
+Element Type: Wall, GUID: 8DFD7302-7A94-F84A-8B45-D27C6B4113A9, Length: 2.53, Width: 0.10, Height: 5.00, Embedded Door GUID: 5B9776F2-D2D6-7D4E-B2F2-ADE84D58830A, Info String: SW - 043, Wall Bounding Box: [(20.33, 12.13, 0.00), (20.43, 14.66, 5.00)], Label Type: 0
+Element Type: Wall, GUID: E19C176B-6519-7E4B-BF89-63C9DBA0C7D5, Length: 1.55, Width: 0.15, Height: 4.25, Embedded Door GUID: 474A8DBC-FE3F-AB42-A4EF-CB208C03D453, Info String: SW - 044, Wall Bounding Box: [(17.68, 12.13, 0.00), (19.23, 12.28, 4.25)], Label Type: 0
+Element Type: Wall, GUID: CDEEA9D2-092B-CF4C-B9A7-3CA970BF3BD1, Length: 1.55, Width: 0.15, Height: 4.25, Embedded Door GUID: A7EE6546-FF17-F942-A8D5-ABA8EBEA1330, Info String: SW - 044, Wall Bounding Box: [(11.83, 12.13, 0.00), (13.38, 12.28, 4.25)], Label Type: 0
+Element Type: Wall, GUID: F0805340-91BE-DD46-8609-F133B3BA76DE, Length: 1.20, Width: 0.10, Height: 4.03, Info String: SW - 043, Wall Bounding Box: [(19.23, 14.56, 0.00), (20.43, 14.66, 4.03)], Label Type: 0
+Element Type: Wall, GUID: 77A6326C-7C9A-2944-B2E0-F61CB90F674E, Length: 1.55, Width: 0.15, Height: 4.25, Info String: SW - 044, Wall Bounding Box: [(11.83, 13.91, 0.00), (13.38, 14.06, 4.25)], Label Type: 0
+Element Type: Wall, GUID: E628A9A8-1CFE-E240-9D9D-ADA65D7EDB08, Length: 1.78, Width: 0.02, Height: 4.25, Info String: SW - 042, Wall Bounding Box: [(13.01, 12.28, 0.00), (13.03, 14.06, 4.25)], Label Type: 0
+Element Type: Wall, GUID: 63E69AB5-A05C-DC4F-BDE3-0984C6C64B4F, Length: 1.78, Width: 0.02, Height: 4.25, Info String: SW - 043, Wall Bounding Box: [(18.01, 12.28, 0.00), (18.03, 14.06, 4.25)], Label Type: 0
+Element Type: Wall, GUID: 98695AFE-7DDC-0C44-A6C3-2DF988C2CA9C, Length: 1.20, Width: 0.10, Height: 4.00, Info String: SW - 043, Wall Bounding Box: [(19.23, 13.93, 0.00), (20.43, 14.03, 4.00)], Label Type: 0
+Element Type: Wall, GUID: 5BE770AD-5B4A-6E4D-BB67-5AFDBBD9860E, Length: 8.60, Width: 0.15, Height: 5.00, Embedded Door GUID: 3D71DDEE-29E2-3C45-87FA-1C77BD366DF6, 25BF4D3C-F599-5242-AF2C-013174E6BBCB, Info String: SW - 044, Wall Bounding Box: [(11.83, 16.01, 0.00), (20.43, 16.16, 5.00)], Label Type: 0
+Element Type: Wall, GUID: E82A4AAD-EE39-274F-8D7F-37B4F8EAA727, Length: 5.74, Width: 0.20, Height: 5.00, Embedded Door GUID: 90BCE324-C654-F646-9AF7-A7C782E6E6CC, Info String: SW - 043, Wall Bounding Box: [(11.83, 10.26, 0.00), (12.03, 16.01, 5.00)], Label Type: 0
+Element Type: Wall, GUID: E8C07AEA-CF54-C240-B1FD-68922CA6F154, Length: 5.56, Width: 0.85, Height: 2.28, Info String: SW - 043, Wall Bounding Box: [(5.96, 10.75, 0.00), (6.81, 16.31, 2.28)], Label Type: 0
+Element Type: Wall, GUID: 84C9E214-0F2E-3849-B6B6-32541E233DD8, Length: 1.90, Width: 0.05, Height: 0.55, Info String: SW - 042, Wall Bounding Box: [(12.98, 14.08, 3.50), (13.03, 15.98, 4.05)], Label Type: 0
+Element Type: Wall, GUID: 03869858-685D-DF44-9B07-4799E3D1B219, Length: 2.23, Width: 0.10, Height: 4.25, Embedded Door GUID: 55534BF9-3B97-8F42-AE77-B8B8DE8C36B9, Info String: SW - 044, Wall Bounding Box: [(10.63, 13.93, 0.00), (10.73, 16.16, 4.25)], Label Type: 0
+Element Type: Wall, GUID: 353083D0-E29B-D44C-ABE8-ACE977A68A92, Length: 1.20, Width: 0.10, Height: 4.25, Info String: SW - 045, Wall Bounding Box: [(10.63, 13.93, 0.00), (11.83, 14.03, 4.25)], Label Type: 0
+Element Type: Wall, GUID: 5B872B65-3816-5F4D-A146-7C28B820E626, Length: 1.20, Width: 0.10, Height: 4.25, Info String: SW - 045, Wall Bounding Box: [(10.63, 14.56, 0.00), (11.83, 14.66, 4.25)], Label Type: 0
+Element Type: Wall, GUID: 21E14202-DD52-1F47-AB41-8EB511B09188, Length: 1.20, Width: 0.15, Height: 4.25, Info String: SW - 044, Wall Bounding Box: [(10.63, 16.01, 0.00), (11.83, 16.16, 4.25)], Label Type: 0
+Element Type: Wall, GUID: C33A035E-4700-DE42-A8C9-EEB9D049D9D7, Length: 1.02, Width: 0.15, Height: 4.25, Info String: SW - 044, Wall Bounding Box: [(18.01, 13.91, 0.00), (19.03, 14.06, 4.25)], Label Type: 0
+Element Type: Wall, GUID: 5A3FF659-EEEF-F548-94EB-CB221EED21DB, Length: 2.29, Width: 0.16, Height: 1.03, Info String: SW - 048, Wall Bounding Box: [(38.85, 13.87, 3.98), (39.00, 16.16, 5.01)], Label Type: 0
+Element Type: Wall, GUID: E01DCEFA-8231-C14F-B801-CCB16D20A4BE, Length: 2.29, Width: 0.16, Height: 1.03, Info String: SW - 048, Wall Bounding Box: [(38.85, 13.87, 3.98), (39.00, 16.16, 5.01)], Label Type: 0
+Element Type: Wall, GUID: 9C6E0AC4-0DB4-EA48-83E9-0D93750D0812, Length: 2.29, Width: 0.16, Height: 1.03, Info String: SW - 048, Wall Bounding Box: [(38.85, 13.87, 3.98), (39.00, 16.16, 5.01)], Label Type: 0
+Element Type: Slab, GUID: 7A050944-B0EB-1248-A63D-8CF8407FF0EB, Info String: SLA - 002, Slab Bounding Box: [(-100.45, -17.41, -0.10), (47.14, 18.74, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 1A35981C-7FB5-FF46-BB86-D7456FFAC8DB, Info String: SLA - 015, Slab Bounding Box: [(-121.35, -57.98, 0.00), (-112.67, -49.24, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 578EDA88-EA73-7042-A12A-2E2AA005E4C7, Info String: SLA - 013, Slab Bounding Box: [(-94.53, -43.93, 0.00), (-79.20, -27.36, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 92F117FF-C69F-7D4F-97A9-1E57A9E7AD63, Info String: SLA - 014, Slab Bounding Box: [(-102.47, -46.66, 0.00), (-94.51, -32.71, 32.00)], Label Type: 0
+Element Type: Slab, GUID: C373C343-9D70-5F4B-9073-EE5DAEB3DBB7, Info String: SLA - 045, Slab Bounding Box: [(-113.40, -15.95, -3.00), (-100.45, 19.05, 6.00)], Label Type: 0
+Element Type: Slab, GUID: EDE96362-2A00-3445-A832-0D2ED9DD3C06, Info String: SLA - 002, Slab Bounding Box: [(37.50, 13.49, -0.50), (41.86, 16.31, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 501524B6-C9B7-FB4C-86DB-EB91D90E2EF1, Info String: SLA - 002, Slab Bounding Box: [(3.14, 7.96, -0.10), (15.41, 11.13, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 74595885-A9F3-E14F-83D5-8D20B6A715AF, Info String: SLA - 042, Slab Bounding Box: [(-19.34, 50.56, 0.00), (-12.38, 60.60, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 1FC00DC0-29B4-4E49-B5D0-4D3C984D0B7D, Info String: SLA - 041, Slab Bounding Box: [(-37.33, 64.69, 0.00), (-28.53, 78.14, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 248004CA-4344-3244-BD03-5142F109DE9E, Info String: SLA - 040, Slab Bounding Box: [(-32.59, 69.59, 0.00), (18.59, 110.52, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 251BDAF1-48AA-5D49-80AF-3977D9D1C1AF, Info String: SLA - 039, Slab Bounding Box: [(-12.18, 70.47, 0.00), (-3.13, 79.06, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 250CE277-2E41-D447-B011-CA7E20AAF002, Info String: SLA - 038, Slab Bounding Box: [(6.34, 71.81, 0.00), (30.16, 94.58, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 1FE6CBCA-DB0D-B444-94FA-DB82AE323548, Info String: SLA - 037, Slab Bounding Box: [(27.47, 59.74, 0.00), (43.64, 74.98, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 906F4AD4-C4CB-3742-A3BB-0ABA02BF8DA7, Info String: SLA - 036, Slab Bounding Box: [(-5.69, 41.76, 0.03), (31.73, 65.78, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 2B0A5D5D-D00C-7A49-9553-846FDEEB2237, Info String: SLA - 034, Slab Bounding Box: [(38.76, 37.70, -3.00), (59.32, 65.60, 50.00)], Label Type: 0
+Element Type: Slab, GUID: 183D13B1-D00B-EB4B-BE99-7F7C6AF7833F, Info String: SLA - 033, Slab Bounding Box: [(47.93, 67.87, -3.00), (60.52, 78.27, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 09118E4C-6564-B54B-99DE-9B9FCDF9E7D5, Info String: SLA - 032, Slab Bounding Box: [(49.87, 76.77, 0.00), (62.24, 89.20, 50.00)], Label Type: 0
+Element Type: Slab, GUID: 03A01FB4-E556-D046-9965-7C36C85C94E5, Info String: SLA - 031, Slab Bounding Box: [(21.35, 84.57, -2.97), (72.85, 147.73, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 0AD7985B-2248-9F4F-9F0F-13CB9B081587, Info String: SLA - 017, Slab Bounding Box: [(57.92, -165.46, 0.00), (95.65, -126.32, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 5BF1A30B-DBE0-8748-9B41-11F8F8399486, Info String: SLA - 046, Slab Bounding Box: [(-76.50, 0.92, 0.00), (-61.58, 10.52, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 7A5A06CE-F32F-BC4A-9F63-8437D2A8BBCD, Info String: SLA - 030, Slab Bounding Box: [(55.14, 99.56, 0.00), (90.86, 161.25, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 1DBD4A37-E600-0649-A7F1-1FCE3CA5A6A6, Info String: SLA - 029, Slab Bounding Box: [(79.40, 138.63, 0.00), (99.83, 165.94, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 9ACD92CE-6127-F94D-9A8F-B89F10836CD2, Info String: SLA - 028, Slab Bounding Box: [(91.29, 107.12, 0.00), (123.87, 146.63, 32.00)], Label Type: 0
+Element Type: Slab, GUID: DA3EB597-A053-3C4A-B78C-61C89F1AA567, Info String: SLA - 047, Slab Bounding Box: [(-80.42, 26.45, 0.00), (-38.12, 53.58, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 9BFF20FF-0AB2-9849-A720-625F6AB02D39, Info String: SLA - 048, Slab Bounding Box: [(-71.73, 73.42, 0.00), (-45.28, 95.41, 50.00)], Label Type: 0
+Element Type: Slab, GUID: 58B5E8EA-82F9-4347-8A33-551C3096497C, Info String: SLA - 045, Slab Bounding Box: [(-49.29, 169.04, -1.00), (32.19, 233.67, 12.00)], Label Type: 0
+Element Type: Slab, GUID: 3AF331E1-EACF-D548-A982-75889BAA2C18, Info String: SLA - 045, Slab Bounding Box: [(-164.35, 18.80, -3.00), (88.10, 177.56, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 83EAFFE6-3815-B642-8929-158EE256AB59, Info String: SLA - 045, Slab Bounding Box: [(-150.69, -44.46, -3.97), (110.45, 154.90, -0.10)], Label Type: 0
+Element Type: Slab, GUID: 92BF1EE8-6919-2640-814A-48605A401D96, Info String: SLA - 045, Slab Bounding Box: [(-130.11, -187.29, -3.00), (237.82, 78.57, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 48C3B2A3-216A-A643-A30A-6CF2736D22AA, Info String: SLA - 089, Slab Bounding Box: [(112.09, 92.10, 0.00), (149.96, 130.90, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 7B553FC9-52C3-6041-8785-E273490FCC4F, Info String: SLA - 084, Slab Bounding Box: [(176.18, -14.74, 0.00), (210.22, 18.30, 32.00)], Label Type: 0
+Element Type: Slab, GUID: EAC6B334-6A5D-2849-BC6E-AAE59EE7EB00, Info String: SLA - 088, Slab Bounding Box: [(153.74, 77.87, 0.00), (178.44, 112.50, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 9756DBCC-939E-3F4E-8284-C0306DB2B1A4, Info String: SLA - 087, Slab Bounding Box: [(136.76, 64.94, 0.00), (182.45, 112.54, 32.00)], Label Type: 0
+Element Type: Slab, GUID: B6FAC443-BE56-0743-9AA5-1613B26DC8AC, Info String: SLA - 086, Slab Bounding Box: [(179.63, 69.58, 0.00), (200.55, 94.83, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 970A2DEF-2AA4-504F-9A16-4D9F0469CD30, Info String: SLA - 085, Slab Bounding Box: [(190.95, 37.28, 0.00), (230.77, 71.44, 32.00)], Label Type: 0
+Element Type: Slab, GUID: BCA99C6D-164D-554A-ABBD-F968BA08CD89, Info String: SLA - 076, Slab Bounding Box: [(-24.55, 154.03, 0.00), (1.15, 169.26, 32.00)], Label Type: 0
+Element Type: Slab, GUID: D09791EC-BFAD-6F47-8D0A-D55BDBB02895, Info String: SLA - 077, Slab Bounding Box: [(-29.06, 151.52, 0.00), (-19.22, 162.05, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 530F0DC2-BE91-1940-B4CC-FCE0E3F7ED02, Info String: SLA - 078, Slab Bounding Box: [(-69.52, 102.05, 0.00), (-49.08, 115.46, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 05851DE4-E2C1-8A43-93F0-3035E03D138E, Info String: SLA - 083, Slab Bounding Box: [(22.18, 202.70, 12.00), (32.19, 215.91, 44.00)], Label Type: 0
+Element Type: Slab, GUID: 8D8256AE-0278-0943-B6A1-1FF76EF4B364, Info String: SLA - 082, Slab Bounding Box: [(-24.85, 200.50, 12.00), (19.29, 221.31, 44.00)], Label Type: 0
+Element Type: Slab, GUID: 90DD4855-B537-1D41-BA33-1975904A0EC8, Info String: SLA - 081, Slab Bounding Box: [(-37.83, 183.79, 12.00), (-22.37, 194.05, 44.00)], Label Type: 0
+Element Type: Slab, GUID: DF669787-2979-C349-A1E2-7F79B74D2C30, Info String: SLA - 080, Slab Bounding Box: [(-67.33, 119.94, 0.00), (-51.78, 147.85, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 588545FA-413D-AA4D-9B8F-E0CAC25E3589, Info String: SLA - 079, Slab Bounding Box: [(-92.39, 102.90, 0.00), (-72.17, 116.52, 100.00)], Label Type: 0
+Element Type: Slab, GUID: D1EC49C2-50E5-D94E-955F-82FBFF71B8D2, Info String: SLA - 016, Slab Bounding Box: [(67.28, -143.11, 0.00), (100.70, -116.80, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 14FBDF54-500A-3B43-8A2C-C31A31263315, Info String: SLA - 045, Slab Bounding Box: [(-87.65, -7.63, -3.03), (-33.45, 18.99, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 9F8B4E9B-0094-324B-9613-064BA58C6F0C, Info String: SLA - 069, Slab Bounding Box: [(9.99, 144.52, 0.03), (32.04, 170.28, 100.00)], Label Type: 0
+Element Type: Slab, GUID: EABD2032-68C7-FC4E-AB7A-21A525A78B44, Info String: SLA - 075, Slab Bounding Box: [(-19.19, 128.62, 0.03), (11.99, 157.96, 32.00)], Label Type: 0
+Element Type: Slab, GUID: C8556E83-C625-5241-95FB-54980B216895, Info String: SLA - 074, Slab Bounding Box: [(-33.35, 121.96, 0.00), (-17.28, 149.03, 100.00)], Label Type: 0
+Element Type: Slab, GUID: EEB6376B-CDC3-7F45-91F3-81D257FAF7DC, Info String: SLA - 073, Slab Bounding Box: [(-49.17, 103.48, 0.00), (-31.36, 158.79, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 31860AAC-6BFD-0A4C-9201-5E51D82DC5C5, Info String: SLA - 072, Slab Bounding Box: [(-30.32, 111.78, 0.00), (-13.63, 127.91, 32.00)], Label Type: 0
+Element Type: Slab, GUID: FBF05910-2A69-A947-9093-438438B978AC, Info String: SLA - 071, Slab Bounding Box: [(-40.98, 87.73, 0.00), (-4.56, 120.15, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 12337E97-9AB4-C449-839E-4B3A093E7715, Info String: SLA - 070, Slab Bounding Box: [(-4.82, 114.25, 0.00), (22.90, 139.47, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 10CA863C-8766-A144-9161-05EF19C1E165, Info String: SLA - 068, Slab Bounding Box: [(4.68, 133.66, 0.00), (69.61, 201.27, 32.00)], Label Type: 0
+Element Type: Slab, GUID: B61A948C-5F0A-224D-A70D-56AE156CFE58, Info String: SLA - 062, Slab Bounding Box: [(-134.65, 28.67, 0.00), (-115.30, 46.31, 100.00)], Label Type: 0
+Element Type: Slab, GUID: BAA6A2B3-D9F9-1144-A397-1DE74689E8A6, Info String: SLA - 067, Slab Bounding Box: [(-174.16, 8.31, 0.00), (-171.61, 11.10, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 184B62A1-1365-5443-91EB-C4A950541F7A, Info String: SLA - 066, Slab Bounding Box: [(-157.54, 29.66, 0.00), (-155.27, 32.12, 50.00)], Label Type: 0
+Element Type: Slab, GUID: 1BEBD8E7-50FC-214F-B4DA-6EEB5AC6F7FD, Info String: SLA - 065, Slab Bounding Box: [(-144.64, 46.32, 0.00), (-135.59, 56.03, 100.00)], Label Type: 0
+Element Type: Slab, GUID: C1D88A51-C46E-1C43-887F-AA0647556D92, Info String: SLA - 064, Slab Bounding Box: [(-134.58, 45.89, 0.00), (-117.80, 75.08, 100.00)], Label Type: 0
+Element Type: Slab, GUID: A6250C62-D59F-C94C-B73E-DCC297998F57, Info String: SLA - 063, Slab Bounding Box: [(-148.83, 28.83, 0.00), (-133.17, 46.42, 50.00)], Label Type: 0
+Element Type: Slab, GUID: ACFBE28E-3CA9-0A4B-B307-F75F4FBF09F0, Info String: SLA - 058, Slab Bounding Box: [(-164.14, -28.44, 0.00), (-147.19, -10.82, 100.00)], Label Type: 0
+Element Type: Slab, GUID: F131DD7B-25B6-894D-AE6C-F40A28F1BE0C, Info String: SLA - 061, Slab Bounding Box: [(-172.80, -14.90, 0.00), (-168.13, -11.18, 100.00)], Label Type: 0
+Element Type: Slab, GUID: ABD36530-9B11-DF40-A095-F9FE5C8C7AA1, Info String: SLA - 060, Slab Bounding Box: [(-183.14, -3.23, 0.00), (-170.32, 8.33, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 005CEEB7-BCE4-0A48-9116-240F4333FC04, Info String: SLA - 059, Slab Bounding Box: [(-168.05, -3.10, 0.00), (-150.09, 20.95, 100.00)], Label Type: 0
+Element Type: Slab, GUID: A82CD22E-E1E3-0544-92E1-2780EB537F89, Info String: SLA - 022, Slab Bounding Box: [(177.47, 14.30, 0.00), (199.42, 32.19, 100.00)], Label Type: 0
+Element Type: Slab, GUID: F027E4A8-DD5F-FB4A-BE4A-E0042DFC8238, Info String: SLA - 027, Slab Bounding Box: [(67.11, 20.49, 0.00), (96.12, 107.96, 32.00)], Label Type: 0
+Element Type: Slab, GUID: F30204DD-E97F-5E47-9994-704766E0EC54, Info String: SLA - 026, Slab Bounding Box: [(117.15, -18.78, 0.00), (164.86, 30.18, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 2B15CE2E-30A8-3344-AEA4-46B1BF1C2FF4, Info String: SLA - 025, Slab Bounding Box: [(102.05, 80.32, 0.00), (118.20, 95.31, 100.00)], Label Type: 0
+Element Type: Slab, GUID: DD8CEF06-DA1B-7640-BA91-BC02E0FD5D13, Info String: SLA - 024, Slab Bounding Box: [(85.57, 21.14, 0.00), (164.55, 89.01, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 3A051ACF-EBCE-6642-9E3B-2737408A8696, Info String: SLA - 023, Slab Bounding Box: [(174.34, 41.72, 0.00), (184.21, 50.90, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 7691D1B0-B5E3-2E45-813E-D25CFF893DB7, Info String: SLA - 019, Slab Bounding Box: [(123.30, -77.60, 0.00), (180.72, -22.06, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 0C82980D-04FB-114F-BDCD-594E12BE1F0A, Info String: SLA - 021, Slab Bounding Box: [(149.62, 3.40, 0.00), (197.98, 46.79, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 82409D51-45AC-D140-A9F2-F62CE7DBB577, Info String: SLA - 043, Slab Bounding Box: [(-33.40, 48.74, 0.00), (-17.81, 53.27, 21.00)], Label Type: 0
+Element Type: Slab, GUID: C838AEDC-19D0-044D-9ECD-8B31C4DBE418, Info String: SLA - 020, Slab Bounding Box: [(113.58, -64.58, 0.00), (177.87, -8.70, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 73CDFE9E-DA23-1046-A77B-C8CE309CE598, Info String: SLA - 018, Slab Bounding Box: [(4.96, -184.50, 0.00), (62.11, -134.13, 21.00)], Label Type: 0
+Element Type: Slab, GUID: FABB5FB6-491B-ED47-94DE-F073171D46F8, Info String: SLA - 002, Slab Bounding Box: [(42.78, 11.86, -0.65), (43.81, 12.89, -0.15)], Label Type: 0
+Element Type: Slab, GUID: FE0C49D2-38F7-A843-8A03-4F498568081A, Info String: SLA - 002, Slab Bounding Box: [(43.03, 12.11, -0.80), (44.06, 13.13, -0.30)], Label Type: 0
+Element Type: Slab, GUID: 99A10DAE-AD92-464F-9C99-B1603ECFC24B, Info String: SLA - 002, Slab Bounding Box: [(43.28, 12.36, -0.95), (44.30, 13.38, -0.45)], Label Type: 0
+Element Type: Slab, GUID: E242F478-8E04-6745-8388-AF6F5CABB44F, Info String: SLA - 002, Slab Bounding Box: [(43.53, 12.60, -1.10), (44.55, 13.63, -0.60)], Label Type: 0
+Element Type: Slab, GUID: 6F480D63-CED3-A141-ABD2-E476637A88FC, Info String: SLA - 002, Slab Bounding Box: [(43.77, 12.85, -1.25), (44.80, 13.88, -0.75)], Label Type: 0
+Element Type: Slab, GUID: BA02FE84-A529-5145-BAD5-A3EE54C01098, Info String: SLA - 002, Slab Bounding Box: [(44.02, 13.10, -1.40), (45.05, 14.12, -0.90)], Label Type: 0
+Element Type: Slab, GUID: 9CC6A55A-91FB-4649-8EBD-99E99D175445, Info String: SLA - 053, Slab Bounding Box: [(-109.32, 27.72, 0.00), (-94.09, 39.15, 100.00)], Label Type: 0
+Element Type: Slab, GUID: C70CAF11-AB17-3F4D-A8F8-520FD279221F, Info String: SLA - 054, Slab Bounding Box: [(-115.70, 39.00, 0.00), (-95.69, 96.78, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 16483BBC-4A2C-4741-858F-776B93A4888E, Info String: SLA - 057, Slab Bounding Box: [(-145.76, -25.09, 0.00), (-108.73, 20.45, 50.00)], Label Type: 0
+Element Type: Slab, GUID: F2A3166E-B8A9-CF4D-9C01-9D36C5CDE08C, Info String: SLA - 056, Slab Bounding Box: [(-105.84, -13.88, -3.00), (-87.71, 18.89, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 258AB23F-6A55-2A44-998A-99D8782EDCBF, Info String: SLA - 002, Slab Bounding Box: [(14.38, -88.13, 0.00), (76.47, -7.67, 1.00)], Label Type: 0
+Element Type: Slab, GUID: 90E24198-72EE-7D45-A75B-6D355444C836, Info String: SLA - 002, Slab Bounding Box: [(69.24, -47.58, 0.00), (138.14, 22.18, 1.00)], Label Type: 0
+Element Type: Slab, GUID: D657FCFA-E456-4341-90F4-76E6E520676E, Info String: SLA - 003, Slab Bounding Box: [(84.86, -91.83, 0.00), (117.74, -66.51, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 8AA4CA59-FEE6-F24B-B682-6C99191BDCA1, Info String: SLA - 004, Slab Bounding Box: [(96.66, -82.57, 0.00), (121.39, -64.45, 32.00)], Label Type: 0
+Element Type: Slab, GUID: C0141742-EF5F-AC4C-AE48-4E3A7B94B879, Info String: SLA - 005, Slab Bounding Box: [(69.40, -99.87, 0.00), (92.57, -81.48, 32.00)], Label Type: 0
+Element Type: Slab, GUID: AFBB91F3-40D0-EE46-9B62-95539A430CA0, Info String: SLA - 006, Slab Bounding Box: [(39.22, -107.29, 0.00), (61.83, -76.46, 50.00)], Label Type: 0
+Element Type: Slab, GUID: 7A0B1158-DC68-1940-B1F7-AC71CC06C8F1, Info String: SLA - 007, Slab Bounding Box: [(-21.95, -122.16, 0.00), (40.41, -10.54, 50.00)], Label Type: 0
+Element Type: Slab, GUID: 8D17FDD7-9E4B-4C4D-84C2-CCE2F4264BE1, Info String: SLA - 008, Slab Bounding Box: [(-54.56, -116.12, 0.00), (-0.90, -16.60, 50.00)], Label Type: 0
+Element Type: Slab, GUID: D2F71102-456F-A94C-BA9A-01FAF5A28300, Info String: SLA - 009, Slab Bounding Box: [(-50.72, -132.39, 0.00), (3.85, -33.99, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 0818593D-8FA5-9E48-B5DB-119E01F97D13, Info String: SLA - 010, Slab Bounding Box: [(-65.56, -65.30, 0.00), (-48.95, -49.97, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 8C8D893C-77D4-E34E-B18F-A9B5D4A01BBA, Info String: SLA - 011, Slab Bounding Box: [(-72.68, -53.19, 0.00), (-52.35, -23.78, 32.00)], Label Type: 0
+Element Type: Slab, GUID: 388A51D0-485C-3641-AB76-D5AC48BF2525, Info String: SLA - 012, Slab Bounding Box: [(-99.58, -120.80, 0.00), (-31.81, -60.28, 100.00)], Label Type: 0
+Element Type: Slab, GUID: CF128A08-1155-1942-9DA5-6F7D2B8EE668, Info String: SLA - 045, Slab Bounding Box: [(-92.00, -8.88, -3.00), (-82.08, 18.99, 6.00)], Label Type: 0
+Element Type: Slab, GUID: 68E19DCA-3E35-244F-83FF-537910F90EB4, Info String: SLA - 045, Slab Bounding Box: [(-29.77, 22.48, -3.00), (102.30, 156.82, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 5484A054-68EF-964C-B749-C2D183F14DDC, Info String: SLA - 046, Slab Bounding Box: [(64.26, 17.98, -3.00), (126.20, 148.57, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 6AEEBF2B-6ED8-0149-A8D1-3965CE6162F9, Info String: SLA - 045, Slab Bounding Box: [(77.37, 10.06, -3.00), (164.16, 136.34, -2.10)], Label Type: 0
+Element Type: Slab, GUID: 2FECAC58-D9BD-524F-87DD-C88AE5C046C6, Info String: SLA - 035, Slab Bounding Box: [(-31.52, 23.16, 0.00), (37.16, 39.80, 21.00)], Label Type: 0
+Element Type: Slab, GUID: 297F6746-D2D8-DB4C-90AC-07676ADE275B, Info String: SLA - 045, Slab Bounding Box: [(-88.17, 16.16, -3.03), (-27.30, 40.02, 2.40)], Label Type: 0
+Element Type: Slab, GUID: 8CE2C7D3-577A-194D-86C4-734FF5D93C26, Info String: SLA - 002, Slab Bounding Box: [(2.21, 15.03, -0.72), (6.64, 16.31, 2.28)], Label Type: 0
+Element Type: Slab, GUID: DFB02085-2E9F-9949-9337-FE56870D8B0D, Info String: SLA - 002, Slab Bounding Box: [(69.24, -47.58, 0.00), (138.14, 22.18, 100.00)], Label Type: 0
+Element Type: Slab, GUID: BFE58C49-7853-0647-952E-E3FC21FD12F6, Info String: SLA - 002, Slab Bounding Box: [(7.88, 11.08, 0.00), (8.48, 12.58, 0.90)], Label Type: 0
+Element Type: Slab, GUID: 064FE50A-65EE-F646-8D21-DF33EEABAE2D, Info String: SLA - 002, Slab Bounding Box: [(23.73, 15.71, 0.10), (33.01, 16.16, 0.45)], Label Type: 0
+Element Type: Slab, GUID: ECA81AD0-B43C-BC46-96EA-3712669509A5, Info String: SLA - 045, Slab Bounding Box: [(12.03, 14.06, 1.00), (13.03, 16.16, 1.30)], Label Type: 0
+Element Type: Slab, GUID: B124DFDD-65CC-8B4B-887B-5F8FC9844B35, Info String: SLA - 045, Slab Bounding Box: [(18.03, 14.06, 1.00), (19.03, 16.16, 1.30)], Label Type: 0
+Element Type: Slab, GUID: BAE2F057-0D20-EA4A-82B1-B84ED4DCF314, Info String: SLA - 045, Slab Bounding Box: [(33.51, 15.66, 1.10), (36.05, 16.16, 1.20)], Label Type: 0
+Element Type: Slab, GUID: BB198491-62BF-7140-8852-42F338C6C3F0, Info String: SLA - 045, Slab Bounding Box: [(33.47, 13.00, 1.10), (37.25, 14.09, 1.20)], Label Type: 0
+Element Type: Slab, GUID: E4AD31A2-7F2E-EA4B-90DE-A1681ED10721, Info String: SLA - 002, Slab Bounding Box: [(6.64, 9.90, -0.35), (37.50, 16.31, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 9E5585DD-9B09-194D-AB9E-666770437F1D, Info String: SLA - 002, Slab Bounding Box: [(2.22, 10.78, -3.97), (6.64, 16.31, 0.00)], Label Type: 0
+Element Type: Slab, GUID: 03E65A4D-005B-6C49-AC59-E6980CDE0356, Info String: SLA - 002, Slab Bounding Box: [(14.38, -88.13, 0.00), (76.47, -7.67, 100.00)], Label Type: 0
+Element Type: Slab, GUID: 81D87F70-1180-F248-AF51-CA58844EB988, Info String: SLA - 002, Slab Bounding Box: [(37.50, 13.49, -4.00), (41.86, 16.31, -0.50)], Label Type: 0
+Element Type: Slab, GUID: 374AF08E-089A-154A-A4CF-328FA92BD809, Info String: SLA - 002, Slab Bounding Box: [(23.13, 14.16, 0.00), (23.73, 16.16, 1.20)], Label Type: 0
+Element Type: Slab, GUID: 68DE6C49-44AB-1F4C-853B-E16C5FE4AFAF, Info String: SLA - 002, Slab Bounding Box: [(21.33, 14.16, 0.00), (23.13, 14.76, 1.20)], Label Type: 0
+Element Type: Slab, GUID: 64642FFF-176C-F24A-A2B2-57C2A2A2F790, Info String: SLA - 045, Slab Bounding Box: [(35.46, 22.48, -2.97), (102.30, 156.82, -0.10)], Label Type: 0
+Element Type: Slab, GUID: F281D81F-C7BB-BA42-9F28-0BBF47369F20, Info String: SLA - 044, Slab Bounding Box: [(-13.49, 7.35, -3.97), (2.75, 16.31, 17.03)], Label Type: 0
+Element Type: Slab, GUID: 380D3A15-D9E7-9547-B04C-ED92EB6A2AF0, Info String: SLA - 044, Slab Bounding Box: [(-28.02, 4.35, 0.00), (-11.82, 16.50, 60.00)], Label Type: 0
+Element Type: Slab, GUID: ED19FEA0-7204-E744-8697-3D13DBC65571, Info String: SLA - 035, Slab Bounding Box: [(26.77, 26.38, 0.00), (44.56, 44.13, 100.00)], Label Type: 0
+Element Type: Slab, GUID: A6E602BA-755F-6A45-8824-44CCBB40B536, Info String: SLA - 051, Slab Bounding Box: [(-99.80, 50.90, 0.00), (-81.73, 96.57, 100.00)], Label Type: 0
+Element Type: Slab, GUID: DB189636-B9E1-6244-BB1D-15AF9498D247, Info String: SLA - 050, Slab Bounding Box: [(-84.52, 58.96, 0.00), (-69.67, 94.15, 100.00)], Label Type: 0
+Element Type: Slab, GUID: CBCC5F78-4BA4-E441-B7A0-3036E5B54136, Info String: SLA - 027, Slab Bounding Box: [(37.52, 13.64, 3.97), (39.00, 16.16, 4.02)], Label Type: 0
+Element Type: Slab, GUID: E24D7076-9BEA-804A-91DB-19D9E8AD853D, Info String: SLA - 027, Slab Bounding Box: [(19.26, 12.26, 3.65), (20.31, 13.91, 3.70)], Label Type: 0
+Element Type: Slab, GUID: 20E8E4BC-34D7-DE48-BB5E-1FDB96EDD651, Info String: SLA - 027, Slab Bounding Box: [(12.06, 12.31, 3.65), (12.99, 13.88, 3.70)], Label Type: 0
+Element Type: Slab, GUID: 8CC1E426-4567-3746-8592-B7FAA157909F, Info String: SLA - 027, Slab Bounding Box: [(12.06, 14.08, 3.50), (12.98, 15.98, 3.55)], Label Type: 0
+Element Type: Slab, GUID: 08CC899D-A0A6-EB4A-A44D-ED24A5B44162, Info String: SLA - 027, Slab Bounding Box: [(18.06, 12.31, 3.50), (19.01, 15.98, 3.55)], Label Type: 0
+Element Type: Slab, GUID: 7D59A498-0BA2-414B-A1A0-9D942A0DEC9A, Info String: SLA - 027, Slab Bounding Box: [(5.89, 10.91, 3.98), (7.06, 16.16, 4.03)], Label Type: 0
+Element Type: Zone, GUID: ABD2978A-66EE-2F4A-99E4-B79A4006A8EF, Zone Stamp GUID: DBA70BB4-62D6-F444-BA93-70693C0F1369, Position: (23.75, 13.85), Room Name: GFA, Room Number: 001, Room Height: 2.70, Zone Stamp Bounding Box: [(22.47, 12.37, 0.00), (25.03, 15.32, 0.00)], Info String: ZON - 010, Zone Bounding Box: [(6.64, 9.90, 0.00), (37.50, 16.31, 2.70)], Label Type: 4
+Element Type: Zone, GUID: 0E4337BF-7114-0240-BC99-7EFA53BE3BCD, Zone Stamp GUID: F1E66350-A2E6-B848-BF97-3413A3D66D2A, Position: (21.77, 12.76), Room Name: Unit B  Toilet, Room Number: 005, Room Height: 2.70, Zone Stamp Bounding Box: [(20.73, 12.32, 0.00), (22.82, 13.19, 0.00)], Info String: ZON - 014, Zone Bounding Box: [(19.23, 12.23, 0.00), (20.33, 13.93, 2.70)], Label Type: 4
+Element Type: Zone, GUID: 93B2F4E1-AC8E-FB49-A89E-77359B5AC628, Zone Stamp GUID: E163855F-2861-F44D-A3E1-13A27ACF86C3, Position: (23.45, 13.94), Room Name: Unit B  Living, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(22.34, 13.51, 0.00), (24.55, 14.37, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(19.23, 10.68, 0.00), (37.51, 16.16, 2.70)], Label Type: 4
+Element Type: Zone, GUID: D0D29C99-5DB2-F549-B2CA-99FE81576543, Zone Stamp GUID: 7A1BC132-F33C-7C48-8124-68C6097B3C3A, Position: (7.54, 14.17), Room Name: Unit A  Living, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(6.45, 13.74, 0.00), (8.64, 14.60, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(6.81, 10.41, 0.00), (11.83, 16.16, 2.70)], Label Type: 4
+Element Type: Zone, GUID: 711BE963-4106-0A4A-938D-3A019BCFD1A0, Zone Stamp GUID: 71A67417-75FD-7141-880B-3B08B38D3AD3, Position: (8.78, 15.41), Room Name: Unit A  Shower, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(7.57, 14.98, 0.00), (9.98, 15.84, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(10.73, 14.66, 0.00), (11.83, 16.01, 2.70)], Label Type: 4
+Element Type: Zone, GUID: 7E725399-D1A1-D045-B1F8-6A5838FB2506, Zone Stamp GUID: 6E89BEAC-23C8-AD4E-9620-7FDAD524822A, Position: (15.34, 11.32), Room Name: Lobby, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(14.52, 10.89, 0.00), (16.15, 11.75, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(12.03, 10.06, 0.00), (19.03, 12.14, 2.70)], Label Type: 4
+Element Type: Zone, GUID: 600006A9-E924-E143-A960-81413ED8EE4E, Zone Stamp GUID: 6DA484DC-AEEE-004F-9443-2C5D15325C28, Position: (12.51, 15.22), Room Name: Lobby, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(11.77, 14.79, 0.00), (13.24, 15.65, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(12.03, 14.06, 0.00), (13.03, 16.01, 2.70)], Label Type: 4
+Element Type: Zone, GUID: 32EA2395-53A7-6C41-BA1E-535922204264, Zone Stamp GUID: A6E94494-14F8-CD48-8B0F-BBAE6138FDE5, Position: (12.50, 13.51), Room Name: Lobby, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(11.76, 13.08, 0.00), (13.23, 13.94, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(12.03, 12.28, 0.00), (13.01, 13.91, 2.70)], Label Type: 4
+Element Type: Zone, GUID: 7360F18E-3266-D74D-9281-E1EAF875077A, Zone Stamp GUID: F0368646-287F-FD46-BCB2-0CBCC9C67090, Position: (18.57, 14.77), Room Name: Lobby, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(17.83, 14.34, 0.00), (19.30, 15.21, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(18.03, 14.06, 0.00), (19.03, 16.01, 2.70)], Label Type: 4
+Element Type: Zone, GUID: B1A8AE42-6053-864B-9A21-7CBBAAF0C81D, Zone Stamp GUID: 0E3544B5-2C3E-2348-BA6A-767C2C21D0FE, Position: (18.44, 13.34), Room Name: Lobby, Room Number: 004, Room Height: 2.70, Zone Stamp Bounding Box: [(17.70, 12.90, 0.00), (19.17, 13.77, 0.00)], Info String: ZON - 013, Zone Bounding Box: [(18.03, 12.28, 0.00), (19.03, 16.01, 2.70)], Label Type: 4
+Element Type: Door, GUID: A7EE6546-FF17-F942-A8D5-ABA8EBEA1330, Width: 0.85 , Height: 2.10 , Embedded in Wall GUID: CDEEA9D2-092B-CF4C-B9A7-3CA970BF3BD1, Info String: DOO - 005, Door Bounding Box: [(12.06, 12.13, 1.30), (12.91, 13.02, 3.40)], Label Type: 0
+Element Type: Door, GUID: 3D71DDEE-29E2-3C45-87FA-1C77BD366DF6, Width: 0.85 , Height: 2.10 , Embedded in Wall GUID: 5BE770AD-5B4A-6E4D-BB67-5AFDBBD9860E, Info String: DOO - 005, Door Bounding Box: [(12.13, 16.01, 1.30), (12.98, 16.93, 3.40)], Label Type: 0
+Element Type: Door, GUID: 25BF4D3C-F599-5242-AF2C-013174E6BBCB, Width: 0.85 , Height: 2.10 , Embedded in Wall GUID: 5BE770AD-5B4A-6E4D-BB67-5AFDBBD9860E, Info String: DOO - 005, Door Bounding Box: [(18.14, 16.01, 1.30), (18.99, 16.93, 3.40)], Label Type: 0
+Element Type: Door, GUID: 5B9776F2-D2D6-7D4E-B2F2-ADE84D58830A, Width: 0.70 , Height: 2.10 , Embedded in Wall GUID: 8DFD7302-7A94-F84A-8B45-D27C6B4113A9, Info String: DOO - 001, Door Bounding Box: [(20.33, 12.23, 0.00), (20.43, 12.98, 2.10)], Label Type: 0
+Element Type: Door, GUID: 30473EC4-6EC6-6144-A05A-7744B225CAC4, Width: 0.90 , Height: 2.40 , Embedded in Wall GUID: A7DC1D5B-1D0B-7241-9698-BD84B31FADDA, Info String: DOO - 001, Door Bounding Box: [(19.03, 11.00, 0.00), (20.05, 11.97, 2.40)], Label Type: 0
+Element Type: Door, GUID: 90BCE324-C654-F646-9AF7-A7C782E6E6CC, Width: 1.00 , Height: 2.10 , Embedded in Wall GUID: E82A4AAD-EE39-274F-8D7F-37B4F8EAA727, Info String: DOO - 005, Door Bounding Box: [(11.83, 11.04, 0.00), (12.03, 12.04, 2.10)], Label Type: 0
+Element Type: Door, GUID: 55534BF9-3B97-8F42-AE77-B8B8DE8C36B9, Width: 0.70 , Height: 2.10 , Embedded in Wall GUID: 03869858-685D-DF44-9B07-4799E3D1B219, Info String: DOO - 001, Door Bounding Box: [(10.63, 14.66, 0.00), (10.73, 15.41, 2.10)], Label Type: 0
+Element Type: Door, GUID: 474A8DBC-FE3F-AB42-A4EF-CB208C03D453, Width: 0.85 , Height: 2.10 , Embedded in Wall GUID: E19C176B-6519-7E4B-BF89-63C9DBA0C7D5, Info String: DOO - 005, Door Bounding Box: [(18.13, 12.13, 1.30), (18.98, 13.02, 3.40)], Label Type: 0
+Element Type: Zone Stamp, GUID: DBA70BB4-62D6-F444-BA93-70693C0F1369, Zone Stamp Bounding Box: [(22.47, 12.37, 0.00), (25.03, 15.32, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: F1E66350-A2E6-B848-BF97-3413A3D66D2A, Zone Stamp Bounding Box: [(20.73, 12.32, 0.00), (22.82, 13.19, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: E163855F-2861-F44D-A3E1-13A27ACF86C3, Zone Stamp Bounding Box: [(22.34, 13.51, 0.00), (24.55, 14.37, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: 7A1BC132-F33C-7C48-8124-68C6097B3C3A, Zone Stamp Bounding Box: [(6.45, 13.74, 0.00), (8.64, 14.60, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: 71A67417-75FD-7141-880B-3B08B38D3AD3, Zone Stamp Bounding Box: [(7.57, 14.98, 0.00), (9.98, 15.84, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: 6E89BEAC-23C8-AD4E-9620-7FDAD524822A, Zone Stamp Bounding Box: [(14.52, 10.89, 0.00), (16.15, 11.75, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: 6DA484DC-AEEE-004F-9443-2C5D15325C28, Zone Stamp Bounding Box: [(11.77, 14.79, 0.00), (13.24, 15.65, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: A6E94494-14F8-CD48-8B0F-BBAE6138FDE5, Zone Stamp Bounding Box: [(11.76, 13.08, 0.00), (13.23, 13.94, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: F0368646-287F-FD46-BCB2-0CBCC9C67090, Zone Stamp Bounding Box: [(17.83, 14.34, 0.00), (19.30, 15.21, 0.00)], Info String: Zone Stamp
+Element Type: Zone Stamp, GUID: 0E3544B5-2C3E-2348-BA6A-767C2C21D0FE, Zone Stamp Bounding Box: [(17.70, 12.90, 0.00), (19.17, 13.77, 0.00)], Info String: Zone Stamp
+Element Type: DimText 0, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, DimText 0 Bounding Box: [(6.90, 18.29, 0.00), (7.40, 18.79, 0.00)], Text: 0.000, Position: (6.90, 18.29), Info String: Dim Text 0
+Element Type: DimText 1, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, DimText 1 Bounding Box: [(9.21, 18.29, 0.00), (9.71, 18.79, 0.00)], Text: 4.625, Position: (9.21, 18.29), Info String: Dim Text 1
+Element Type: DimText 2, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, DimText 2 Bounding Box: [(15.12, 18.29, 0.00), (15.62, 18.79, 0.00)], Text: 7.200, Position: (15.12, 18.29), Info String: Dim Text 2
+Element Type: DimText 3, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, DimText 3 Bounding Box: [(22.79, 18.29, 0.00), (23.29, 18.79, 0.00)], Text: 8.125, Position: (22.79, 18.29), Info String: Dim Text 3
+Element Type: DimText 4, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, DimText 4 Bounding Box: [(29.85, 18.29, 0.00), (30.35, 18.79, 0.00)], Text: 6.000, Position: (29.85, 18.29), Info String: Dim Text 4
+Element Type: DimText 5, GUID: 3A78BB46-A8FE-F841-BD16-7367455B3360, DimText 5 Bounding Box: [(34.94, 18.29, 0.00), (35.44, 18.79, 0.00)], Text: 4.175, Position: (34.94, 18.29), Info String: Dim Text 5
+Element Type: DimText 6, GUID: 1506BBD3-A3E8-4D4E-B007-5ECBDE8C742A, DimText 6 Bounding Box: [(6.90, 19.06, 0.00), (7.40, 19.56, 0.00)], Text: 0.000, Position: (6.90, 19.06), Info String: Dim Text 6
+Element Type: DimText 7, GUID: 1506BBD3-A3E8-4D4E-B007-5ECBDE8C742A, DimText 7 Bounding Box: [(21.87, 19.06, 0.00), (22.37, 19.56, 0.00)], Text: 30.125, Position: (21.87, 19.06), Info String: Dim Text 7

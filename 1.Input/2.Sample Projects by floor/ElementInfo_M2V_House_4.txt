@@ -1,0 +1,22 @@
+Element Type: DimNode 0, GUID: 8F08739D-A2A4-D341-879E-1E34F43A5602, Associated Element GUID: D508152E-8E0C-344C-A519-6607762E5B06, Text: 0, Length: 0.00, DimNode 0 Bounding Box: [(6.09, 7.87, 0.00), (6.10, 7.88, 0.00)], Position: (6.10, 7.88), Info String: Dim Node 0
+Element Type: DimNode 1, GUID: 8F08739D-A2A4-D341-879E-1E34F43A5602, Associated Element GUID: D508152E-8E0C-344C-A519-6607762E5B06, Text: controllare in cantiere, Length: 2.27, DimNode 1 Bounding Box: [(8.36, 7.87, 0.00), (8.37, 7.88, 0.00)], Position: (8.37, 7.88), Info String: Dim Node 1
+Element Type: Dimension, GUID: 8F08739D-A2A4-D341-879E-1E34F43A5602, Dimension Bounding Box: [(6.07, 7.84, 0.00), (8.40, 7.91, 0.00)], Length: 2.27, Info String: Dim 1
+Element Type: DimNode 2, GUID: B9BD890C-BD23-404D-A3D5-774552C7CDCB, Associated Element GUID: D508152E-8E0C-344C-A519-6607762E5B06, Text: 0, Length: 0.00, DimNode 2 Bounding Box: [(6.36, 7.60, 0.00), (6.37, 7.61, 0.00)], Position: (6.36, 7.60), Info String: Dim Node 2
+Element Type: DimNode 3, GUID: B9BD890C-BD23-404D-A3D5-774552C7CDCB, Associated Element GUID: D000A044-E783-A944-8697-CBB55129A9B6, Text: controllare in cantiere, Length: 4.25, DimNode 3 Bounding Box: [(6.36, 11.85, 0.00), (6.37, 11.86, 0.00)], Position: (6.36, 11.85), Info String: Dim Node 3
+Element Type: Dimension, GUID: B9BD890C-BD23-404D-A3D5-774552C7CDCB, Dimension Bounding Box: [(6.33, 7.57, 0.00), (6.40, 11.88, 0.00)], Length: 4.25, Info String: Dim 2
+Element Type: Wall, GUID: 7A1B64EA-8E9E-BF4C-A19D-D4EFBE06AE91, Length: 2.60, Width: 0.42, Height: 1.39, Info String: MUR - 001, Wall Bounding Box: [(6.08, 7.19, -0.97), (8.68, 7.60, 0.41)], Label Type: 0
+Element Type: Wall, GUID: 66EFA465-7996-904B-B980-62D657204950, Length: 4.22, Width: 0.06, Height: 0.95, Info String: MUR - 002, Wall Bounding Box: [(9.86, 9.89, -1.02), (14.08, 9.95, -0.07)], Label Type: 0
+Element Type: Wall, GUID: 7631363D-6043-1048-BDE2-705CBCF5794F, Length: 2.71, Width: 0.01, Height: 2.49, Info String: MURO - 010, Wall Bounding Box: [(10.82, 7.19, -1.07), (10.83, 9.89, 1.42)], Label Type: 0
+Element Type: Wall, GUID: 48E52CB7-F9D7-8944-87A9-8B098960B470, Length: 3.31, Width: 0.01, Height: 2.40, Info String: MURO - 010, Wall Bounding Box: [(9.86, 13.78, -1.23), (9.87, 17.09, 1.17)], Label Type: 0
+Element Type: Wall, GUID: 4C0C3524-04DF-884F-B68B-A9CF014B1BDE, Length: 9.90, Width: 0.01, Height: 2.28, Info String: MURO - 010, Wall Bounding Box: [(8.27, 7.19, -1.06), (8.28, 17.09, 1.22)], Label Type: 0
+Element Type: Wall, GUID: A21CCBEA-133B-AF47-90C2-C5C1EAF96997, Length: 3.78, Width: 0.01, Height: 2.49, Info String: MURO - 010, Wall Bounding Box: [(9.85, 9.89, -1.06), (9.86, 13.67, 1.43)], Label Type: 0
+Element Type: Slab, GUID: 666187AE-6EFD-EF4E-8070-3DCC243B06F7, Info String: SOLAIO 008, Slab Bounding Box: [(8.24, 13.79, -1.07), (8.26, 16.67, -1.06)], Label Type: 0
+Element Type: Slab, GUID: 129907A5-E12F-6946-98B5-FD68569A3D4A, Info String: SOLAIO 008, Slab Bounding Box: [(10.81, 9.06, -1.02), (13.68, 9.08, -1.01)], Label Type: 0
+Element Type: Slab, GUID: 8CFC4D45-ABD1-1E45-8339-7752666FBC57, Info String: SOLAIO 008, Slab Bounding Box: [(9.92, 10.00, -1.02), (12.73, 10.02, -1.01)], Label Type: 0
+Element Type: Slab, GUID: 05E76BBC-35A3-D148-95D2-888DDFF8716C, Info String: SOLAIO 008, Slab Bounding Box: [(9.96, 13.65, -1.07), (13.60, 13.67, -1.06)], Label Type: 0
+Element Type: Slab, GUID: C8746647-C2B2-CF45-9872-0CD2804132A3, Info String: SIS - 202, Slab Bounding Box: [(6.10, 7.19, -1.07), (8.68, 12.64, -0.97)], Label Type: 0
+Element Type: Slab, GUID: D5A811B7-3F53-6B4B-A489-FB5600C0F42B, Info String: SIC - 202, Slab Bounding Box: [(8.27, 7.19, -1.07), (10.83, 13.67, -1.06)], Label Type: 0
+Element Type: DimText 0, GUID: 8F08739D-A2A4-D341-879E-1E34F43A5602, DimText 0 Bounding Box: [(6.06, 7.90, 0.00), (6.56, 8.40, 0.00)], Text: 0, Position: (6.06, 7.90), Info String: Dim Text 0
+Element Type: DimText 1, GUID: 8F08739D-A2A4-D341-879E-1E34F43A5602, DimText 1 Bounding Box: [(6.56, 7.90, 0.00), (7.06, 8.40, 0.00)], Text: controllare in cantiere, Position: (6.56, 7.90), Info String: Dim Text 1
+Element Type: DimText 2, GUID: B9BD890C-BD23-404D-A3D5-774552C7CDCB, DimText 2 Bounding Box: [(6.34, 7.56, 0.00), (6.84, 8.06, 0.00)], Text: 0, Position: (6.34, 7.56), Info String: Dim Text 2
+Element Type: DimText 3, GUID: B9BD890C-BD23-404D-A3D5-774552C7CDCB, DimText 3 Bounding Box: [(6.34, 9.06, 0.00), (6.84, 9.56, 0.00)], Text: controllare in cantiere, Position: (6.34, 9.06), Info String: Dim Text 3
