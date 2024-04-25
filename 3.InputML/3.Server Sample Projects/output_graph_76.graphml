@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d23" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d22" for="node" attr.name="embedded_in_wall_guid" attr.type="string"/>
+<key id="d21" for="node" attr.name="label_guid" attr.type="string"/>
+<key id="d20" for="node" attr.name="room_height" attr.type="string"/>
+<key id="d19" for="node" attr.name="room_number" attr.type="string"/>
+<key id="d18" for="node" attr.name="room_name" attr.type="string"/>
+<key id="d17" for="node" attr.name="pos_y" attr.type="double"/>
+<key id="d16" for="node" attr.name="pos_x" attr.type="double"/>
+<key id="d15" for="node" attr.name="zone_stamp_guid" attr.type="string"/>
+<key id="d14" for="node" attr.name="bb_zmax" attr.type="double"/>
+<key id="d13" for="node" attr.name="bb_ymax" attr.type="double"/>
+<key id="d12" for="node" attr.name="bb_xmax" attr.type="double"/>
+<key id="d11" for="node" attr.name="bb_zmin" attr.type="double"/>
+<key id="d10" for="node" attr.name="bb_ymin" attr.type="double"/>
+<key id="d9" for="node" attr.name="bb_xmin" attr.type="double"/>
+<key id="d8" for="node" attr.name="label_type" attr.type="long"/>
+<key id="d7" for="node" attr.name="info_string" attr.type="string"/>
+<key id="d6" for="node" attr.name="embedded_door_guid" attr.type="string"/>
+<key id="d5" for="node" attr.name="height" attr.type="string"/>
+<key id="d4" for="node" attr.name="width" attr.type="string"/>
+<key id="d3" for="node" attr.name="length" attr.type="string"/>
+<key id="d2" for="node" attr.name="guid" attr.type="string"/>
+<key id="d1" for="node" attr.name="element_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="node_id" attr.type="long"/>
+<graph edgedefault="undirected"><node id="41">
+  <data key="d0">41</data>
+  <data key="d1">Wall</data>
+  <data key="d2">3A166D5F-444B-4FFE-9C42-9E4433C7ED62</data>
+  <data key="d3">8.62</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">3C1ADF00-99DB-48EB-B5FC-A075685A71B1</data>
+  <data key="d7">WALL-001</data>
+  <data key="d8">1</data>
+  <data key="d9">0.0</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">8.62</data>
+  <data key="d13">0.34</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="42">
+  <data key="d0">42</data>
+  <data key="d1">Wall</data>
+  <data key="d2">A3831D8D-2072-464A-907B-4FF183A3BEBD</data>
+  <data key="d3">10.50</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">024C05A0-DE15-4601-BCDF-37120DA258B5</data>
+  <data key="d7">WALL-003</data>
+  <data key="d8">1</data>
+  <data key="d9">0.0</data>
+  <data key="d10">4.66</data>
+  <data key="d11">0.0</data>
+  <data key="d12">10.5</data>
+  <data key="d13">5.0</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="43">
+  <data key="d0">43</data>
+  <data key="d1">Wall</data>
+  <data key="d2">05526A12-85D5-41ED-9A07-FD2FA2B2489E</data>
+  <data key="d3">5.00</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d7">WALL-004</data>
+  <data key="d8">1</data>
+  <data key="d9">0.0</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.34</data>
+  <data key="d13">5.0</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="44">
+  <data key="d0">44</data>
+  <data key="d1">Wall</data>
+  <data key="d2">484BDD1B-CE3B-47B6-9172-22E788AC285D</data>
+  <data key="d3">5.71</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">450A1C02-7A61-454A-9A0E-D4D920422A93</data>
+  <data key="d7">WALL-001</data>
+  <data key="d8">0</data>
+  <data key="d9">4.67</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">10.38</data>
+  <data key="d13">0.34</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="45">
+  <data key="d0">45</data>
+  <data key="d1">Wall</data>
+  <data key="d2">3480D771-44A4-43B8-AB61-25FACC865A9A</data>
+  <data key="d3">11.11</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">9AA169DD-4BF5-4890-9E7B-CBA880F36E2D</data>
+  <data key="d7">WALL-004</data>
+  <data key="d8">1</data>
+  <data key="d9">4.67</data>
+  <data key="d10">-3.02</data>
+  <data key="d11">0.0</data>
+  <data key="d12">5.01</data>
+  <data key="d13">8.09</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="46">
+  <data key="d0">46</data>
+  <data key="d1">Wall</data>
+  <data key="d2">594F072A-9680-4A40-ADAC-65183072FCB5</data>
+  <data key="d3">5.32</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">7473A898-7BCE-44C1-9892-71DB5A16CB0B</data>
+  <data key="d7">WALL-001</data>
+  <data key="d8">1</data>
+  <data key="d9">10.28</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.6</data>
+  <data key="d13">0.34</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="47">
+  <data key="d0">47</data>
+  <data key="d1">Wall</data>
+  <data key="d2">C05BD685-F593-4134-B1F7-532C77E9233A</data>
+  <data key="d3">5.32</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">7CD49C85-C94E-4C59-8E1D-C0521EF799D7</data>
+  <data key="d7">WALL-003</data>
+  <data key="d8">1</data>
+  <data key="d9">10.28</data>
+  <data key="d10">4.66</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.6</data>
+  <data key="d13">5.0</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="48">
+  <data key="d0">48</data>
+  <data key="d1">Wall</data>
+  <data key="d2">D0A98277-89B8-436C-AFA8-E2B26F52DCF3</data>
+  <data key="d3">5.00</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">E3E17AEF-6071-470B-A201-5CE3EC805BE8</data>
+  <data key="d7">WALL-004</data>
+  <data key="d8">1</data>
+  <data key="d9">10.28</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">10.61</data>
+  <data key="d13">5.0</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="49">
+  <data key="d0">49</data>
+  <data key="d1">Wall</data>
+  <data key="d2">1EC8E9CD-CC08-423F-B61B-7D342818DEB2</data>
+  <data key="d3">5.00</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d7">WALL-001</data>
+  <data key="d8">1</data>
+  <data key="d9">15.49</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">20.49</data>
+  <data key="d13">0.34</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="50">
+  <data key="d0">50</data>
+  <data key="d1">Wall</data>
+  <data key="d2">12CADE6A-16CF-455E-8647-B2D3C56F6805</data>
+  <data key="d3">5.00</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d7">WALL-002</data>
+  <data key="d8">1</data>
+  <data key="d9">20.16</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">20.49</data>
+  <data key="d13">5.0</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="51">
+  <data key="d0">51</data>
+  <data key="d1">Wall</data>
+  <data key="d2">B5DA26D8-78A8-4EC6-A7C7-7820840E20DB</data>
+  <data key="d3">5.00</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d7">WALL-003</data>
+  <data key="d8">1</data>
+  <data key="d9">15.49</data>
+  <data key="d10">4.66</data>
+  <data key="d11">0.0</data>
+  <data key="d12">20.49</data>
+  <data key="d13">5.0</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="52">
+  <data key="d0">52</data>
+  <data key="d1">Wall</data>
+  <data key="d2">2FE022C2-213C-4AA9-AA36-80D9E560E3BE</data>
+  <data key="d3">11.11</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d6">C3144F12-E79B-4DCA-A1C0-0C8B42BBE965</data>
+  <data key="d7">WALL-004</data>
+  <data key="d8">1</data>
+  <data key="d9">15.49</data>
+  <data key="d10">-3.02</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.83</data>
+  <data key="d13">8.09</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="53">
+  <data key="d0">53</data>
+  <data key="d1">Wall</data>
+  <data key="d2">FCA65AD7-DBA4-49E7-A9C8-899B52CD899D</data>
+  <data key="d3">10.82</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d7">WALL-026</data>
+  <data key="d8">1</data>
+  <data key="d9">4.67</data>
+  <data key="d10">8.09</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.49</data>
+  <data key="d13">8.42</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="54">
+  <data key="d0">54</data>
+  <data key="d1">Wall</data>
+  <data key="d2">2521792D-54CC-4FDC-8894-4A3FA6B1F4BE</data>
+  <data key="d3">10.82</data>
+  <data key="d4">0.34</data>
+  <data key="d5">3.00</data>
+  <data key="d7">WALL-027</data>
+  <data key="d8">1</data>
+  <data key="d9">4.67</data>
+  <data key="d10">-3.02</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.49</data>
+  <data key="d13">-2.68</data>
+  <data key="d14">3.0</data>
+</node>
+<node id="55">
+  <data key="d0">55</data>
+  <data key="d1">Zone</data>
+  <data key="d2">4FDB58E1-A83E-4E95-9F4C-9164088E9DA7</data>
+  <data key="d7">SPCE-016</data>
+  <data key="d8">4</data>
+  <data key="d9">0.34</data>
+  <data key="d10">0.34</data>
+  <data key="d11">0.0</data>
+  <data key="d12">4.67</data>
+  <data key="d13">4.66</data>
+  <data key="d14">2.69</data>
+  <data key="d15">B2C28AC3-1B04-48BE-B06F-6E12600A34B5</data>
+  <data key="d16">2.49</data>
+  <data key="d17">3.46</data>
+  <data key="d18">Room SP3 1</data>
+  <data key="d19">01-017</data>
+  <data key="d20">2.69</data>
+</node>
+<node id="56">
+  <data key="d0">56</data>
+  <data key="d1">Zone</data>
+  <data key="d2">5FED80E1-A9CF-4837-8A0E-CFB498C3DBFD</data>
+  <data key="d7">SPCE-017</data>
+  <data key="d8">4</data>
+  <data key="d9">5.01</data>
+  <data key="d10">5.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.49</data>
+  <data key="d13">8.09</data>
+  <data key="d14">2.69</data>
+  <data key="d15">D6166883-8254-4642-B24B-B71AFD1D0C7B</data>
+  <data key="d16">10.54</data>
+  <data key="d17">7.06</data>
+  <data key="d18">Room SP3 2</data>
+  <data key="d19">01-018</data>
+  <data key="d20">2.69</data>
+</node>
+<node id="57">
+  <data key="d0">57</data>
+  <data key="d1">Zone</data>
+  <data key="d2">7393383E-EF0A-4144-8EA2-293FAC472CCA</data>
+  <data key="d7">SPCE-018</data>
+  <data key="d8">4</data>
+  <data key="d9">5.01</data>
+  <data key="d10">0.34</data>
+  <data key="d11">0.0</data>
+  <data key="d12">10.28</data>
+  <data key="d13">4.66</data>
+  <data key="d14">2.69</data>
+  <data key="d15">144C0F09-5A1D-47AA-B870-DA536369812D</data>
+  <data key="d16">8.03</data>
+  <data key="d17">3.22</data>
+  <data key="d18">Room SP3 3</data>
+  <data key="d19">01-019</data>
+  <data key="d20">2.69</data>
+</node>
+<node id="58">
+  <data key="d0">58</data>
+  <data key="d1">Zone</data>
+  <data key="d2">F1275D0E-ACFC-424C-AE2B-ECBEB6B72609</data>
+  <data key="d7">SPCE-019</data>
+  <data key="d8">4</data>
+  <data key="d9">10.61</data>
+  <data key="d10">0.34</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.49</data>
+  <data key="d13">4.66</data>
+  <data key="d14">2.69</data>
+  <data key="d15">341889F9-649B-4BED-A903-F38482951138</data>
+  <data key="d16">11.87</data>
+  <data key="d17">3.8</data>
+  <data key="d18">Room SP3 4</data>
+  <data key="d19">01-020</data>
+  <data key="d20">2.69</data>
+</node>
+<node id="59">
+  <data key="d0">59</data>
+  <data key="d1">Zone</data>
+  <data key="d2">7CB55126-3CB5-4FBB-9BCE-FA81CFDD10FB</data>
+  <data key="d7">SPCE-020</data>
+  <data key="d8">4</data>
+  <data key="d9">15.83</data>
+  <data key="d10">0.34</data>
+  <data key="d11">0.0</data>
+  <data key="d12">20.16</data>
+  <data key="d13">4.66</data>
+  <data key="d14">2.69</data>
+  <data key="d15">EF381EF5-0D9B-449F-A3F8-E8B22785E846</data>
+  <data key="d16">18.23</data>
+  <data key="d17">2.78</data>
+  <data key="d18">Room SP3 5</data>
+  <data key="d19">01-021</data>
+  <data key="d20">2.69</data>
+</node>
+<node id="60">
+  <data key="d0">60</data>
+  <data key="d1">Zone</data>
+  <data key="d2">93174929-EC08-4AE2-B429-23E72027CF40</data>
+  <data key="d7">SPCE-021</data>
+  <data key="d8">4</data>
+  <data key="d9">5.01</data>
+  <data key="d10">-2.68</data>
+  <data key="d11">0.0</data>
+  <data key="d12">15.49</data>
+  <data key="d13">-0.0</data>
+  <data key="d14">2.69</data>
+  <data key="d15">5161BAAA-079C-4DB6-8809-2AAC96E1C62B</data>
+  <data key="d16">10.38</data>
+  <data key="d17">-1.27</data>
+  <data key="d18">Room SP3 6</data>
+  <data key="d19">01-022</data>
+  <data key="d20">2.69</data>
+</node>
+<node id="61">
+  <data key="d0">61</data>
+  <data key="d1">Door</data>
+  <data key="d2">3C1ADF00-99DB-48EB-B5FC-A075685A71B1</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-001</data>
+  <data key="d8">2</data>
+  <data key="d9">0.4</data>
+  <data key="d10">-0.02</data>
+  <data key="d11">0.0</data>
+  <data key="d12">1.38</data>
+  <data key="d13">1.08</data>
+  <data key="d14">2.1</data>
+  <data key="d21">392FEA53-C27B-4718-B3AC-E27D1FCA0669</data>
+  <data key="d22">3A166D5F-444B-4FFE-9C42-9E4433C7ED62</data>
+</node>
+<node id="62">
+  <data key="d0">62</data>
+  <data key="d1">Door</data>
+  <data key="d2">E3E17AEF-6071-470B-A201-5CE3EC805BE8</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-006</data>
+  <data key="d8">2</data>
+  <data key="d9">10.26</data>
+  <data key="d10">2.01</data>
+  <data key="d11">0.0</data>
+  <data key="d12">11.36</data>
+  <data key="d13">2.99</data>
+  <data key="d14">2.1</data>
+  <data key="d21">BA315C4F-4E93-4722-A3DE-8ED179E3FF37</data>
+  <data key="d22">D0A98277-89B8-436C-AFA8-E2B26F52DCF3</data>
+</node>
+<node id="63">
+  <data key="d0">63</data>
+  <data key="d1">Door</data>
+  <data key="d2">7CD49C85-C94E-4C59-8E1D-C0521EF799D7</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-007</data>
+  <data key="d8">2</data>
+  <data key="d9">12.66</data>
+  <data key="d10">4.65</data>
+  <data key="d11">0.0</data>
+  <data key="d12">13.64</data>
+  <data key="d13">5.74</data>
+  <data key="d14">2.1</data>
+  <data key="d21">CBE112EA-8368-47A8-82D6-7ECFF78BE239</data>
+  <data key="d22">C05BD685-F593-4134-B1F7-532C77E9233A</data>
+</node>
+<node id="64">
+  <data key="d0">64</data>
+  <data key="d1">Door</data>
+  <data key="d2">024C05A0-DE15-4601-BCDF-37120DA258B5</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-008</data>
+  <data key="d8">2</data>
+  <data key="d9">8.36</data>
+  <data key="d10">4.65</data>
+  <data key="d11">0.0</data>
+  <data key="d12">9.33</data>
+  <data key="d13">5.74</data>
+  <data key="d14">2.1</data>
+  <data key="d21">304E4E69-2EDC-43DE-A2C4-63031D8B08B2</data>
+  <data key="d22">A3831D8D-2072-464A-907B-4FF183A3BEBD</data>
+</node>
+<node id="65">
+  <data key="d0">65</data>
+  <data key="d1">Door</data>
+  <data key="d2">C3144F12-E79B-4DCA-A1C0-0C8B42BBE965</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-009</data>
+  <data key="d8">2</data>
+  <data key="d9">15.47</data>
+  <data key="d10">2.24</data>
+  <data key="d11">0.0</data>
+  <data key="d12">16.55</data>
+  <data key="d13">3.22</data>
+  <data key="d14">2.1</data>
+  <data key="d21">8494A596-46BC-41F3-ADE7-DDE00059F9BC</data>
+  <data key="d22">2FE022C2-213C-4AA9-AA36-80D9E560E3BE</data>
+</node>
+<node id="66">
+  <data key="d0">66</data>
+  <data key="d1">Door</data>
+  <data key="d2">7473A898-7BCE-44C1-9892-71DB5A16CB0B</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-010</data>
+  <data key="d8">2</data>
+  <data key="d9">11.88</data>
+  <data key="d10">-0.72</data>
+  <data key="d11">0.0</data>
+  <data key="d12">12.85</data>
+  <data key="d13">0.36</data>
+  <data key="d14">2.1</data>
+  <data key="d21">464B15B1-D410-4641-80F8-6887B0D4D786</data>
+  <data key="d22">594F072A-9680-4A40-ADAC-65183072FCB5</data>
+</node>
+<node id="67">
+  <data key="d0">67</data>
+  <data key="d1">Door</data>
+  <data key="d2">9AA169DD-4BF5-4890-9E7B-CBA880F36E2D</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-011</data>
+  <data key="d8">2</data>
+  <data key="d9">3.93</data>
+  <data key="d10">1.92</data>
+  <data key="d11">0.0</data>
+  <data key="d12">5.03</data>
+  <data key="d13">2.89</data>
+  <data key="d14">2.1</data>
+  <data key="d21">3C5F27F2-0D14-4E71-BB91-F75ECC9AD837</data>
+  <data key="d22">3480D771-44A4-43B8-AB61-25FACC865A9A</data>
+</node>
+<node id="68">
+  <data key="d0">68</data>
+  <data key="d1">Door</data>
+  <data key="d2">450A1C02-7A61-454A-9A0E-D4D920422A93</data>
+  <data key="d4">0.90 </data>
+  <data key="d5">2.10 </data>
+  <data key="d7">D-012</data>
+  <data key="d8">2</data>
+  <data key="d9">8.59</data>
+  <data key="d10">-0.74</data>
+  <data key="d11">0.0</data>
+  <data key="d12">9.56</data>
+  <data key="d13">0.35</data>
+  <data key="d14">2.1</data>
+  <data key="d21">15560EE7-6918-4946-B5BE-B3CD1401229F</data>
+  <data key="d22">484BDD1B-CE3B-47B6-9172-22E788AC285D</data>
+</node>
+<edge source="41" target="68">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="41" target="55">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="41" target="57">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="41" target="43">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="41" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="41" target="45">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="41" target="44">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="41" target="61">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="48">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="55">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="43">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="47">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="57">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="56">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="45">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="42" target="64">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="43" target="55">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="44" target="45">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="44" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="44" target="46">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="44" target="48">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="44" target="68">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="44" target="55">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="44" target="57">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="45" target="54">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="45" target="56">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="45" target="53">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="45" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="45" target="67">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="45" target="55">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="45" target="57">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="46" target="57">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="46" target="52">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="46" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="46" target="58">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="46" target="48">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="46" target="49">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="46" target="66">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="47" target="57">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="47" target="52">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="47" target="56">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="47" target="58">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="47" target="51">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="47" target="48">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="47" target="63">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="48" target="62">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="48" target="56">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="48" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="48" target="58">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="49" target="50">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="49" target="59">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="49" target="52">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="49" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="49" target="58">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="50" target="51">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="50" target="59">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="51" target="52">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="51" target="58">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="51" target="56">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="51" target="59">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="52" target="53">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="52" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="52" target="56">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="52" target="58">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="52" target="54">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="52" target="65">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="53" target="56">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="54" target="60">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="55" target="61">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="55" target="67">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="56" target="64">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="56" target="63">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="57" target="64">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="57" target="67">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="57" target="68">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="57" target="62">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="58" target="63">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="58" target="65">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="58" target="66">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="58" target="62">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="59" target="65">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="60" target="68">
+  <data key="d23">0.0</data>
+</edge>
+<edge source="60" target="66">
+  <data key="d23">0.0</data>
+</edge>
+</graph></graphml>
