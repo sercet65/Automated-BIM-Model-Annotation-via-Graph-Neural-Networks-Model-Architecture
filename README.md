@@ -1,3 +1,6 @@
+# Reminder: Organize hard-coded file paths before running to ensure all necessary files are generated 
+# and to review the final results.
+
 # Automated BIM Model Annotation via Graph Neural Networks (GNN) - Python
 
 This component of the project applies Graph Neural Networks (GNN) to train  Building Information Modeling (BIM) data. It processes input files to construct graph representations of BIM elements, which are then used to train and infer the GNN models.
