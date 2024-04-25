@@ -88,7 +88,7 @@ def generate_edges_data(nodes_data, distance_tolerance=0.1, start_edge_id=0):
     formatted_shapes = {}
     
     # Filter nodes_data to include only nodes of types "Wall", "Door", "Slab", and "Zone"
-    relevant_nodes_data = [node for node in nodes_data if node.get('element_type', '') in ['Wall', 'Door', 'Slab', 'Zone']]
+    relevant_nodes_data = [node for node in nodes_data if node.get('element_type', '') in ['Wall', 'Door', 'Zone']]
     
     for node in relevant_nodes_data:
         bbox = np.array([
@@ -212,21 +212,12 @@ def main():
         return
 
     # Paths to your files
-    text_file_paths = [
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Gino.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Hillside_House.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_M2V_House.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_S_Office.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_SLife_Express.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Stacked_Tower.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Villa_Patio.txt',
-       
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Grow_DBS.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Edu_Center_DBS.txt',
-        r'C:\Users\serve\OneDrive\Desktop\Phython\1.Input\ElementInfo_Rec_Center_DBS.txt',
-        
-    ]  
+   
+    # Specify the directory where your input files are located
+    input_directory = r'C:\Users\serve\OneDrive\Desktop\Python\1.Input\3.Server Sample Projects'
+
+    # Get a list of all files in the input directory
+    text_file_paths = [os.path.join(input_directory, file) for file in os.listdir(input_directory) if file.endswith('.txt')]
 
     for i, text_file_path in enumerate(text_file_paths, 1):
         # Initialize empty lists for nodes and edges data
@@ -245,7 +236,7 @@ def main():
         all_edges_data.extend(edges_data)
 
         # Filter nodes_data into two separate lists: one for elements and one for annotations
-        elements_data = [node for node in all_nodes_data if node.get('element_type', '') in ['Wall', 'Door', 'Zone', 'Slab']]
+        elements_data = [node for node in all_nodes_data if node.get('element_type', '') in ['Wall', 'Door', 'Zone']]
         annotations_data = [node for node in all_nodes_data if node.get('element_type', '') not in ['Wall', 'Door', 'Zone', 'Slab']]
 
         # Convert to data frames
@@ -255,8 +246,7 @@ def main():
         nodes_df = pd.DataFrame(all_nodes_data)
 
         # Specify the directory where you want to save the output files
-        output_directory = r'C:\Users\serve\OneDrive\Desktop\Phython\2.OutputGraph'
-        
+        output_directory = r'C:\Users\serve\OneDrive\Desktop\Python\2.OutputGraph\3.Server Sample Projects'
         # Save to CSV files
         elements_csv_file_path = os.path.join(output_directory, f'elements_data_{i}.csv')
         annotations_csv_file_path = os.path.join(output_directory, f'annotations_data_{i}.csv')
@@ -277,3 +267,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Copyright statement:
+# The code produced herein is part of the master thesis conducted at the Technical University of Munich and should be used with proper citation.
+# All rights reserved.
+# Happy coding! by Server Çeter 
